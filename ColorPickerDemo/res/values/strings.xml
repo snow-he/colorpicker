@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorPickerDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dialogtitle">ColorPicker</string>
+    <string name="bt">choosecolor</string>
+    <string name="dialogmessage">Touch on the ring to choose the color \nTouch on the rectangle to adjust the color depth \nClick on the center dot to determine color</string>
+
+</resources>
